@@ -1,0 +1,45 @@
+.footer {
+    margin-top: auto;
+    width: auto;
+    height: 100px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logoApp {
+    width: 100px;
+    margin: 10px;
+}
+
+.texto {
+    width: 800px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.hecho {
+    color: azure;
+    margin-bottom: 10px;
+}
+
+.nosotros {
+    display: inline-flex;
+}
+
+.logoGit {
+    width: 35px;
+    border-radius: 50%;
+}
+
+.cadaUno {
+    list-style-type: none;
+    color: azure;
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+}
