@@ -1,0 +1,18 @@
+.contenedor-principal {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    align-items: center;
+}
+  .textarea {
+    resize: none;
+    width: 350px;
+    min-height: 100px;
+    border-radius: 5px;
+    border-color: rgb(157, 58, 250);
+    justify-content: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    background-color: rgb(224, 190, 255);
+
+}
