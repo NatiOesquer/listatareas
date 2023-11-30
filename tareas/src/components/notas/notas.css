@@ -1,0 +1,20 @@
+.container {
+    text-align: center;
+    border-radius: 20px;
+    padding: 10px;
+    /* border: 1px solid #ccc; */
+  }
+
+  .label {
+    font-size: 28px;
+    font-weight: bold;
+    font-family: cursive;
+  }
+
+  .textarea {
+    font-size: 16px;
+    font-family: Arial;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    padding: 5px;
+  }
