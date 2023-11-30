@@ -10,9 +10,9 @@ import Notas from '../components/notas/Notas'
 export default function Home() {
   return (
     <div>
-      <Titulo/>
-      <Logo />
+      <Titulo/>      
       <Materiales />
+      <Logo />
       <Notas />
       <Footer />
     </div>

@@ -3,9 +3,19 @@ import "./materiales.css"
 
 export default function Materiales() {
     return (
-        <div className='contenedor-principal'>
-            <label for='materiales'>Materiales:</label>
-            <textarea name='materiales' className='textarea'> </textarea>
+        <div>
+
+            <div className='contenedor-principal'>
+                <h2 className='titulo-mate'> Materiales para realizar las tareas</h2>
+                <div className='contenedor-materiales'>
+                    <textarea name='materiales1' className='materiales1'> </textarea>
+                    <textarea name="materiales2" rows="45" cols="45" className='materiales2'></textarea>
+                </div>
+               
+            </div>
+         
         </div>
+
+
     )
 }

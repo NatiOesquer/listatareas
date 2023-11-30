@@ -1,3 +1,10 @@
+.contenedor-logo{
+  position: absolute;
+  top: 180px;
+  right: 180px;
+
+}
+
 .caja-logo{
     display: flex;
     align-items: end;
@@ -5,14 +12,14 @@
     margin-top: 100px;
     flex-wrap: wrap;
     margin-right: 15px;
-   
+
 }
 .logo{
     border-radius: 40%;
-    width: 200px;
+    width: 400px;
     height: auto;
     animation: jumpAnimation 1s ease-in-out infinite;
-    
+
 }
 
 @keyframes jumpAnimation {
