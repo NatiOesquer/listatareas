@@ -1,0 +1,28 @@
+.contenedor-tasklist{
+    text-align: center;
+    border-radius: 20px;
+    padding: 10px;
+    height: 500px;
+    align-items: center;
+    border: 10px ridge rgb(157, 58, 250);
+    width: 80%;
+    margin: 20px;
+    margin-left: 170px;
+   
+}
+.contenedor-cabecera{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 20px;
+
+}
+
+
+.titulolista{
+    color: rgb(110, 56, 134);
+    font-weight: bold;
+    text-shadow: 2px 2px 2px 2px white;
+    font-size: 50px;
+}
+
