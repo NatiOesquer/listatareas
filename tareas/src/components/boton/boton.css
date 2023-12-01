@@ -1,0 +1,16 @@
+.contenedor-boton{
+    background: linear-gradient(to right, #0e0d0d, rgb(168, 33, 164));
+    width: 150px;
+    height: 80px;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.boton{
+    color:rgb(224, 190, 255);
+    background-color: transparent;
+    font-size: 25px;
+    border: none;
+
+}

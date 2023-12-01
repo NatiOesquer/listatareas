@@ -6,13 +6,17 @@ import Materiales from '../components/materiales/Materiales'
 import Footer from '../components/footer/Footer'
 import Notas from '../components/notas/Notas'
 
+import TaskItem from '../components/taskItem/TaskItem'
+
 
 export default function Home() {
   return (
     <div>
-      <Titulo/>      
-      <Materiales />
-      <Logo />
+      <Titulo />  
+      <Logo />    
+      <Materiales />   
+     
+      <TaskItem/>
       <Notas />
       <Footer />
     </div>

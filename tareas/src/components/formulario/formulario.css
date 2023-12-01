@@ -1,0 +1,43 @@
+.contenedor-formulario {
+    position: absolute;
+    top: 100%;
+    right: 33%;
+   
+    font-size: 30px;
+
+
+}
+
+.div-form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.titulo-label {
+    color: rgb(110, 56, 134);
+    font-weight: bold;
+}
+
+.input-form {
+    outline: none;
+    font-size: 30px;
+    width: 500px;
+    border: 3px solid rgb(121, 13, 243);
+    border-radius: 10px;
+    margin: 10px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.btn-tarea {
+    background: linear-gradient(to right, #0e0d0d, rgb(168, 33, 164));
+    padding: 10px;
+    border: 3px solid rgb(121, 13, 243);
+    border-radius: 15px;
+    color:rgb(224, 190, 255);
+
+    font-size: 22px;
+    border: none;
+
+}

@@ -1,7 +1,7 @@
 .contenedor-logo{
   position: absolute;
-  top: 180px;
-  right: 180px;
+    top: -63px;
+    right: 300px;
 
 }
 
@@ -16,7 +16,7 @@
 }
 .logo{
     border-radius: 40%;
-    width: 400px;
+    width: 130px;
     height: auto;
     animation: jumpAnimation 1s ease-in-out infinite;
 
